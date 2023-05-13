@@ -14,7 +14,7 @@ body{
     background-color: hsl(244, 38%, 16%);
     display: flex;
     width: 80%;
-    height: 70vh;
+    height: 58vh;
     border-radius: 12px ;
 }
 .content{
@@ -29,7 +29,7 @@ body{
     height: 100%;
     background-position: center;
     background-size: cover;
-    background-image: url(./image-header-desktop.jpg);
+    background-image: url(/stats-preview-card-component-main/images/image-header-desktop.jpg);
 }
 #img-overlay{
     border-radius: 0px 12px 12px 0px;
@@ -37,7 +37,7 @@ body{
     height: 100%;
     background-position: center;
     background-size: cover;
-    background-color: hsl(277, 64%, 61%, 0.6);
+    background-color: hsla(277, 91%, 47%, 0.5);
 
 }
 
