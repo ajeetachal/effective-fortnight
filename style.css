@@ -29,7 +29,7 @@ body{
     height: 100%;
     background-position: center;
     background-size: cover;
-    background-image: url(/stats-preview-card-component-main/images/image-header-desktop.jpg);
+    background-image: url(./image-header-desktop.jpg);
 }
 #img-overlay{
     border-radius: 0px 12px 12px 0px;
